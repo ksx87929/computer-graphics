@@ -1,0 +1,3 @@
+﻿  sphere.cpp
+d:\圖學\sphereapproximationandshading\sphere.cpp(213): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  SphereApproximationAndShading.vcxproj -> D:\圖學\SphereApproximationAndShading\Debug\SphereApproximationAndShading.exe
